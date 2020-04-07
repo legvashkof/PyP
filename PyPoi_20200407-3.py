@@ -1,6 +1,6 @@
 #Ghost game
 from random import randint
-print('Ghost game')
+print('Ghost game!')
 brave = True
 score = 0
 while brave:
